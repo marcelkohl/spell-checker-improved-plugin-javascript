@@ -11,6 +11,8 @@
     "args",
     "async",
     "substr",
-    "xhr"
+    "xhr",
+    "eval",
+    "goto"
   ]
 }
