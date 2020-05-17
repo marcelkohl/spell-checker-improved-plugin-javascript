@@ -1,6 +1,16 @@
 {
   "dictionary": [
     "javascript",
-    "js"
+    "js",
+    "fn",
+    "typeof",
+    "concat",
+    "eq",
+    "instanceof",
+    "ajax",
+    "args",
+    "async",
+    "substr",
+    "xhr"
   ]
 }
