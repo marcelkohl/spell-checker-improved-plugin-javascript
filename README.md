@@ -3,4 +3,4 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 # spell-checker-improved-plugin-javascript
-[spell checker improved](https://github.com/marcelkohl/spell-checker-improved) plugin for javascript language
+This is a complementary plugin for the [spell checker improved](https://github.com/marcelkohl/spell-checker-improved) package which brings a dictionary of known words for the Javascript language
